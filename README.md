@@ -5,5 +5,5 @@ Using the Youtube Data API v3, the projects fetches only the top five results ba
 - ReactJs, Hooks, React Materail UI, Youtube Data API v3
 
 # Setup:
-- search for [YOUTUBE DATA API KEY] and resplace with your own.
+- search for [YOUTUBE DATA API KEY] and replace it with your own.
 - run ```npm i && npm start``` to start the development server
